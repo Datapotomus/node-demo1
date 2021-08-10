@@ -1,0 +1,11 @@
+{
+  "name": "node-demo1",
+  "version": "1.0.0",
+  "description": "A hello world demo",
+  "main": "index.js",
+  "author": "Me",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
